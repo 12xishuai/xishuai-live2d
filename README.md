@@ -47,7 +47,7 @@ Live2D 看板娘脚本，基于 Sky 的版本自用托管。
   }
 })();
 </script>
-​```
+```
 
 ## 配置参数说明
 
@@ -67,15 +67,15 @@ Live2D 看板娘脚本，基于 Sky 的版本自用托管。
 
 ## jsDelivr 引用格式
 
-​```text
+```text
 https://cdn.jsdelivr.net/gh/12xishuai/xishuai-live2d@版本号/kbn.js
-​```
+```
 
 例如版本号为 `1.0.0` 时：
 
-​```text
+```text
 https://cdn.jsdelivr.net/gh/12xishuai/xishuai-live2d@1.0.0/kbn.js
-​```
+```
 
 配置好后，看板娘就能在 Via 首页中陪伴您了。
 
